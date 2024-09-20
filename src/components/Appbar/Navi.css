@@ -1,0 +1,13 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    background-color: grey;
+}
+li{
+    color: white;
+    font-weight: 600;    
+}
